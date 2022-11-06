@@ -1,0 +1,132 @@
+C:\repos\Template Monkey - Copy\bin\Debug\OPLegendOfTheNight.dll
+C:\repos\Template Monkey - Copy\bin\Debug\OPLegendOfTheNight.pdb
+C:\repos\Template Monkey - Copy\bin\Debug\Assembly-CSharp.dll
+C:\repos\Template Monkey - Copy\bin\Debug\Il2Cppmscorlib.dll
+C:\repos\Template Monkey - Copy\bin\Debug\Il2CppSystem.Core.dll
+C:\repos\Template Monkey - Copy\bin\Debug\Il2CppSystem.dll
+C:\repos\Template Monkey - Copy\bin\Debug\UnhollowerBaseLib.dll
+C:\repos\Template Monkey - Copy\bin\Debug\UnityEngine.AudioModule.dll
+C:\repos\Template Monkey - Copy\bin\Debug\UnityEngine.CoreModule.dll
+C:\repos\Template Monkey - Copy\bin\Debug\UnityEngine.UI.dll
+C:\repos\Template Monkey - Copy\bin\Debug\UnityEngine.AnimationModule.dll
+C:\repos\Template Monkey - Copy\bin\Debug\Unity.TextMeshPro.dll
+C:\repos\Template Monkey - Copy\bin\Debug\UnityEngine.Purchasing.dll
+C:\repos\Template Monkey - Copy\bin\Debug\NinjaKiwi.Common.dll
+C:\repos\Template Monkey - Copy\bin\Debug\Il2CppNewtonsoft.Json.dll
+C:\repos\Template Monkey - Copy\bin\Debug\NinjaKiwi.CT.API.dll
+C:\repos\Template Monkey - Copy\bin\Debug\NinjaKiwi.LiNK.dll
+C:\repos\Template Monkey - Copy\bin\Debug\Unity.InputSystem.dll
+C:\repos\Template Monkey - Copy\bin\Debug\UnityEngine.ParticleSystemModule.dll
+C:\repos\Template Monkey - Copy\bin\Debug\UnityEngine.InputLegacyModule.dll
+C:\repos\Template Monkey - Copy\bin\Debug\UnityEngine.PhysicsModule.dll
+C:\repos\Template Monkey - Copy\bin\Debug\UnityEngine.TextRenderingModule.dll
+C:\repos\Template Monkey - Copy\bin\Debug\Unity.Addressables.dll
+C:\repos\Template Monkey - Copy\bin\Debug\UniWebView-CSharp.dll
+C:\repos\Template Monkey - Copy\bin\Debug\Facepunch.Steamworks.dll
+C:\repos\Template Monkey - Copy\bin\Debug\UnityEngine.IMGUIModule.dll
+C:\repos\Template Monkey - Copy\bin\Debug\Assembly-CSharp-firstpass.dll
+C:\repos\Template Monkey - Copy\bin\Debug\Twitch.dll
+C:\repos\Template Monkey - Copy\bin\Debug\UnityEngine.Purchasing.Stores.dll
+C:\repos\Template Monkey - Copy\bin\Debug\UnityEngine.VideoModule.dll
+C:\repos\Template Monkey - Copy\bin\Debug\UnityEngine.UIModule.dll
+C:\repos\Template Monkey - Copy\bin\Debug\UnityEngine.UnityWebRequestModule.dll
+C:\repos\Template Monkey - Copy\bin\Debug\UnityEngine.AssetBundleModule.dll
+C:\repos\Template Monkey - Copy\bin\Debug\UnityEngine.ImageConversionModule.dll
+C:\repos\Template Monkey - Copy\bin\Debug\Il2CppMono.Security.dll
+C:\repos\Template Monkey - Copy\bin\Debug\Il2CppSystem.Configuration.dll
+C:\repos\Template Monkey - Copy\bin\Debug\Il2CppSystem.Xml.dll
+C:\repos\Template Monkey - Copy\bin\Debug\Iced.dll
+C:\repos\Template Monkey - Copy\bin\Debug\UnityEngine.UnityWebRequestAssetBundleModule.dll
+C:\repos\Template Monkey - Copy\bin\Debug\UnityEngine.SharedInternalsModule.dll
+C:\repos\Template Monkey - Copy\bin\Debug\UnityEngine.Physics2DModule.dll
+C:\repos\Template Monkey - Copy\bin\Debug\UnityEngine.TextCoreModule.dll
+C:\repos\Template Monkey - Copy\bin\Debug\Unity.Services.Analytics.dll
+C:\repos\Template Monkey - Copy\bin\Debug\Unity.Services.Core.Internal.dll
+C:\repos\Template Monkey - Copy\bin\Debug\Il2CppSystem.Numerics.dll
+C:\repos\Template Monkey - Copy\bin\Debug\Il2CppSystem.Runtime.Serialization.dll
+C:\repos\Template Monkey - Copy\bin\Debug\Il2CppSystem.Data.dll
+C:\repos\Template Monkey - Copy\bin\Debug\Il2CppSystem.Xml.Linq.dll
+C:\repos\Template Monkey - Copy\bin\Debug\UnityEngine.UnityWebRequestWWWModule.dll
+C:\repos\Template Monkey - Copy\bin\Debug\UnityEngine.XRModule.dll
+C:\repos\Template Monkey - Copy\bin\Debug\UnityEngine.InputModule.dll
+C:\repos\Template Monkey - Copy\bin\Debug\UnityStore.dll
+C:\repos\Template Monkey - Copy\bin\Debug\Il2CppSystem.Net.Http.dll
+C:\repos\Template Monkey - Copy\bin\Debug\UnityEngine.AndroidJNIModule.dll
+C:\repos\Template Monkey - Copy\bin\Debug\UnityEngine.Purchasing.SecurityCore.dll
+C:\repos\Template Monkey - Copy\bin\Debug\UnityEngine.Purchasing.AppleCore.dll
+C:\repos\Template Monkey - Copy\bin\Debug\Purchasing.Common.dll
+C:\repos\Template Monkey - Copy\bin\Debug\UnityEngine.Purchasing.WinRTCore.dll
+C:\repos\Template Monkey - Copy\bin\Debug\Unity.Services.Core.dll
+C:\repos\Template Monkey - Copy\bin\Debug\UnityEngine.SubsystemsModule.dll
+C:\repos\Template Monkey - Copy\bin\Debug\MelonLoader.xml
+C:\repos\Template Monkey - Copy\obj\Debug\OPLegendOfTheNight.csproj.AssemblyReference.cache
+C:\repos\Template Monkey - Copy\obj\Debug\OPLegendOfTheNight.csproj.CoreCompileInputs.cache
+C:\repos\Template Monkey - Copy\obj\Debug\OPLegendOfTheNight.csproj.CopyComplete
+C:\repos\Template Monkey - Copy\obj\Debug\OPLegendOfTheNight.dll
+C:\repos\Template Monkey - Copy\obj\Debug\OPLegendOfTheNight.pdb
+C:\repos\OP Legend Of The Night\bin\Debug\OPLegendOfTheNight.dll
+C:\repos\OP Legend Of The Night\bin\Debug\OPLegendOfTheNight.pdb
+C:\repos\OP Legend Of The Night\bin\Debug\Assembly-CSharp.dll
+C:\repos\OP Legend Of The Night\bin\Debug\Il2Cppmscorlib.dll
+C:\repos\OP Legend Of The Night\bin\Debug\Il2CppSystem.Core.dll
+C:\repos\OP Legend Of The Night\bin\Debug\Il2CppSystem.dll
+C:\repos\OP Legend Of The Night\bin\Debug\UnhollowerBaseLib.dll
+C:\repos\OP Legend Of The Night\bin\Debug\UnityEngine.AudioModule.dll
+C:\repos\OP Legend Of The Night\bin\Debug\UnityEngine.CoreModule.dll
+C:\repos\OP Legend Of The Night\bin\Debug\UnityEngine.UI.dll
+C:\repos\OP Legend Of The Night\bin\Debug\UnityEngine.AnimationModule.dll
+C:\repos\OP Legend Of The Night\bin\Debug\Unity.TextMeshPro.dll
+C:\repos\OP Legend Of The Night\bin\Debug\UnityEngine.Purchasing.dll
+C:\repos\OP Legend Of The Night\bin\Debug\NinjaKiwi.Common.dll
+C:\repos\OP Legend Of The Night\bin\Debug\Il2CppNewtonsoft.Json.dll
+C:\repos\OP Legend Of The Night\bin\Debug\NinjaKiwi.CT.API.dll
+C:\repos\OP Legend Of The Night\bin\Debug\NinjaKiwi.LiNK.dll
+C:\repos\OP Legend Of The Night\bin\Debug\Unity.InputSystem.dll
+C:\repos\OP Legend Of The Night\bin\Debug\UnityEngine.ParticleSystemModule.dll
+C:\repos\OP Legend Of The Night\bin\Debug\UnityEngine.InputLegacyModule.dll
+C:\repos\OP Legend Of The Night\bin\Debug\UnityEngine.PhysicsModule.dll
+C:\repos\OP Legend Of The Night\bin\Debug\UnityEngine.TextRenderingModule.dll
+C:\repos\OP Legend Of The Night\bin\Debug\Unity.Addressables.dll
+C:\repos\OP Legend Of The Night\bin\Debug\UniWebView-CSharp.dll
+C:\repos\OP Legend Of The Night\bin\Debug\Facepunch.Steamworks.dll
+C:\repos\OP Legend Of The Night\bin\Debug\UnityEngine.IMGUIModule.dll
+C:\repos\OP Legend Of The Night\bin\Debug\Assembly-CSharp-firstpass.dll
+C:\repos\OP Legend Of The Night\bin\Debug\Twitch.dll
+C:\repos\OP Legend Of The Night\bin\Debug\UnityEngine.Purchasing.Stores.dll
+C:\repos\OP Legend Of The Night\bin\Debug\UnityEngine.VideoModule.dll
+C:\repos\OP Legend Of The Night\bin\Debug\UnityEngine.UIModule.dll
+C:\repos\OP Legend Of The Night\bin\Debug\UnityEngine.UnityWebRequestModule.dll
+C:\repos\OP Legend Of The Night\bin\Debug\UnityEngine.AssetBundleModule.dll
+C:\repos\OP Legend Of The Night\bin\Debug\UnityEngine.ImageConversionModule.dll
+C:\repos\OP Legend Of The Night\bin\Debug\Il2CppMono.Security.dll
+C:\repos\OP Legend Of The Night\bin\Debug\Il2CppSystem.Configuration.dll
+C:\repos\OP Legend Of The Night\bin\Debug\Il2CppSystem.Xml.dll
+C:\repos\OP Legend Of The Night\bin\Debug\Iced.dll
+C:\repos\OP Legend Of The Night\bin\Debug\UnityEngine.UnityWebRequestAssetBundleModule.dll
+C:\repos\OP Legend Of The Night\bin\Debug\UnityEngine.SharedInternalsModule.dll
+C:\repos\OP Legend Of The Night\bin\Debug\UnityEngine.Physics2DModule.dll
+C:\repos\OP Legend Of The Night\bin\Debug\UnityEngine.TextCoreModule.dll
+C:\repos\OP Legend Of The Night\bin\Debug\Unity.Services.Analytics.dll
+C:\repos\OP Legend Of The Night\bin\Debug\Unity.Services.Core.Internal.dll
+C:\repos\OP Legend Of The Night\bin\Debug\Il2CppSystem.Numerics.dll
+C:\repos\OP Legend Of The Night\bin\Debug\Il2CppSystem.Runtime.Serialization.dll
+C:\repos\OP Legend Of The Night\bin\Debug\Il2CppSystem.Data.dll
+C:\repos\OP Legend Of The Night\bin\Debug\Il2CppSystem.Xml.Linq.dll
+C:\repos\OP Legend Of The Night\bin\Debug\UnityEngine.UnityWebRequestWWWModule.dll
+C:\repos\OP Legend Of The Night\bin\Debug\UnityEngine.XRModule.dll
+C:\repos\OP Legend Of The Night\bin\Debug\UnityEngine.InputModule.dll
+C:\repos\OP Legend Of The Night\bin\Debug\UnityStore.dll
+C:\repos\OP Legend Of The Night\bin\Debug\Il2CppSystem.Net.Http.dll
+C:\repos\OP Legend Of The Night\bin\Debug\UnityEngine.AndroidJNIModule.dll
+C:\repos\OP Legend Of The Night\bin\Debug\UnityEngine.Purchasing.SecurityCore.dll
+C:\repos\OP Legend Of The Night\bin\Debug\UnityEngine.Purchasing.AppleCore.dll
+C:\repos\OP Legend Of The Night\bin\Debug\Purchasing.Common.dll
+C:\repos\OP Legend Of The Night\bin\Debug\UnityEngine.Purchasing.WinRTCore.dll
+C:\repos\OP Legend Of The Night\bin\Debug\Unity.Services.Core.dll
+C:\repos\OP Legend Of The Night\bin\Debug\UnityEngine.SubsystemsModule.dll
+C:\repos\OP Legend Of The Night\bin\Debug\MelonLoader.xml
+C:\repos\OP Legend Of The Night\obj\Debug\OPLegendOfTheNight.csproj.AssemblyReference.cache
+C:\repos\OP Legend Of The Night\obj\Debug\OPLegendOfTheNight.csproj.CoreCompileInputs.cache
+C:\repos\OP Legend Of The Night\obj\Debug\OPLegendOfTheNight.csproj.CopyComplete
+C:\repos\OP Legend Of The Night\obj\Debug\OPLegendOfTheNight.dll
+C:\repos\OP Legend Of The Night\obj\Debug\OPLegendOfTheNight.pdb
