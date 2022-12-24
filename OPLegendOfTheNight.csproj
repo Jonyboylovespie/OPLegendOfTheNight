@@ -44,7 +44,7 @@
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>
-	<EmbeddedResource Include="OPLegendOfTheNightIcon.png" />
+    <EmbeddedResource Include="OPLegendOfTheNightIcon.png" />
   </ItemGroup>
   <ItemGroup>
     <None Include="packages.config" />
@@ -59,6 +59,9 @@
     <Reference Include="BloonsTD6 Mod Helper">
       <HintPath>..\..\Program Files (x86)\Steam\steamapps\common\BloonsTD6\Mods\BloonsTD6 Mod Helper.dll</HintPath>
     </Reference>
+    <Reference Include="Il2CppInterop.Runtime">
+      <HintPath>..\..\Program Files (x86)\Steam\steamapps\common\BloonsTD6\MelonLoader\net6\Il2CppInterop.Runtime.dll</HintPath>
+    </Reference>
     <Reference Include="Il2Cppmscorlib">
       <HintPath>..\..\Program Files (x86)\Steam\steamapps\common\BloonsTD6\MelonLoader\Managed\Il2Cppmscorlib.dll</HintPath>
     </Reference>
@@ -71,9 +74,6 @@
     <Reference Include="MelonLoader">
       <HintPath>..\..\Program Files (x86)\Steam\steamapps\common\BloonsTD6\MelonLoader\MelonLoader.dll</HintPath>
     </Reference>
-    <Reference Include="UnhollowerBaseLib">
-      <HintPath>..\..\Program Files (x86)\Steam\steamapps\common\BloonsTD6\MelonLoader\Dependencies\Il2CppAssemblyGenerator\Il2CppAssemblyUnhollower\UnhollowerBaseLib.dll</HintPath>
-    </Reference>
     <Reference Include="Unity.ResourceManager, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null" />
     <Reference Include="UnityEngine.AudioModule, Version=0.0.0.0, Culture=neutral, processorArchitecture=MSIL">
       <SpecificVersion>False</SpecificVersion>
@@ -82,6 +82,9 @@
     <Reference Include="UnityEngine.CoreModule">
       <HintPath>..\..\Program Files (x86)\Steam\steamapps\common\BloonsTD6\MelonLoader\Managed\UnityEngine.CoreModule.dll</HintPath>
     </Reference>
+  </ItemGroup>
+  <ItemGroup>
+    <WCFMetadata Include="Connected Services\" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
   <PropertyGroup>
