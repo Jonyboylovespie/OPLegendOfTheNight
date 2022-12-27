@@ -1,6 +1,6 @@
-﻿using Assets.Scripts.Models;
-using Assets.Scripts.Models.Towers.Behaviors.Abilities;
-using Assets.Scripts.Models.Towers.Mods;
+﻿using Il2CppAssets.Scripts.Models;
+using Il2CppAssets.Scripts.Models.Towers.Behaviors.Abilities;
+using Il2CppAssets.Scripts.Models.Towers.Mods;
 using BTD_Mod_Helper;
 using BTD_Mod_Helper.Api.Enums;
 using BTD_Mod_Helper.Api.Helpers;
@@ -17,13 +17,16 @@ namespace OPLegendOfTheNight
 {
     public class OPLegendOfTheNightMod : BloonsTD6Mod
     {
-
         private static readonly ModSettingInt LegendOfTheNight = new(200000)
         {
             displayName = "Legend Of The Night Cost",
             min = 0
         };
 
+        public override void OnApplicationStart()
+        {
+            MelonLogger.Msg(System.ConsoleColor.DarkMagenta, "OP Legend Of The Night Loaded.");
+        }
         public override void OnNewGameModel(GameModel gameModel, Il2CppSystem.Collections.Generic.List<ModModel> mods)
         {
             gameModel.GetUpgrade(UpgradeType.LegendOfTheNight).cost = CostHelper.CostForDifficulty(LegendOfTheNight, mods);
